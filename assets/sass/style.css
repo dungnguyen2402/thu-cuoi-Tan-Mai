@@ -152,6 +152,58 @@ body {
   overflow-x: hidden;
 }
 
+.title-invite {
+  padding: 10px 40px;
+  background-color: lightsalmon;
+  display: inline-block;
+  border-radius: 40px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  font-weight: 600;
+  font-family: 'Great Vibes', cursive;
+}
+
+.attend-ceremony {
+  font-family: 'Great Vibes', cursive;
+
+}
+
+.line-invite {
+  width: 3px;
+  height: 120px;
+  background-color: lightsalmon;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.date-invite {
+  font-family: 'Great Vibes', cursive;
+  font-size: 58px;
+}
+
+.groom-address {
+  font-family: 'Great Vibes', cursive;
+
+}
+
+.thank-invite {
+  font-family: 'Great Vibes', cursive;
+
+}
+
+.dot-invite {
+  width: 10px;
+  height: 10px;
+  background-color: lightsalmon;
+  margin: auto;
+  border-radius: 50%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.wedding {
+  padding: 28px;
+}
+
 @media (max-width: 767px) {
   body {
     font-size: 14px;
