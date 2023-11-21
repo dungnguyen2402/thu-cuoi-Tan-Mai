@@ -237,6 +237,18 @@ body {
   margin-bottom: 16px;
 }
 
+.copyright {
+  font-family: 'PT Serif', serif !important;
+}
+
+.wpo-site-footer-s2 .wpo-lower-footer {
+  background: coral !important;
+}
+
+.wpo-site-footer-s2 {
+  background: coral !important;
+}
+
 .col-12 {
   flex: 0 auto !important;
 }
