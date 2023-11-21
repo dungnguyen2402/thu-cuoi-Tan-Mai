@@ -204,6 +204,44 @@ body {
   padding: 28px;
 }
 
+.wpo-event-text .title>span {
+  font-family: 'PT Serif', serif !important;
+}
+
+.wpo-event-section-s3 .wpo-event-item .wpo-event-text ul li {
+  font-family: 'PT Serif', serif !important;
+}
+
+.wpo-couple-section-s4 .couple-area .text-grid {
+  text-align: center !important;
+}
+
+.happy-wedding {
+  display: flex;
+  justify-content: center;
+}
+
+.couple-wedding {
+  text-align: center;
+}
+
+.couple-wedding span {
+  font-family: 'PT Serif', serif !important;
+  padding: 10px 40px;
+  background-color: lightpink;
+  display: inline-block;
+  border-radius: 40px;
+  font-size: 22px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.col-12 {
+  flex: 0 auto !important;
+}
+
+
 @media (max-width: 767px) {
   body {
     font-size: 14px;
