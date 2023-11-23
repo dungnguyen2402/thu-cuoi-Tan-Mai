@@ -159,12 +159,11 @@ body {
   border-radius: 40px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   font-weight: 600;
-  font-family: 'Great Vibes', cursive;
+  font-family: "Great Vibes", cursive;
 }
 
 .attend-ceremony {
-  font-family: 'Great Vibes', cursive;
-
+  font-family: "Great Vibes", cursive;
 }
 
 .line-invite {
@@ -176,18 +175,16 @@ body {
 }
 
 .date-invite {
-  font-family: 'Great Vibes', cursive;
+  font-family: "Great Vibes", cursive;
   font-size: 58px;
 }
 
 .groom-address {
-  font-family: 'Great Vibes', cursive;
-
+  font-family: "Great Vibes", cursive;
 }
 
 .thank-invite {
-  font-family: 'Great Vibes', cursive;
-
+  font-family: "Great Vibes", cursive;
 }
 
 .dot-invite {
@@ -204,12 +201,12 @@ body {
   padding: 28px;
 }
 
-.wpo-event-text .title>span {
-  font-family: 'PT Serif', serif !important;
+.wpo-event-text .title > span {
+  font-family: "PT Serif", serif !important;
 }
 
 .wpo-event-section-s3 .wpo-event-item .wpo-event-text ul li {
-  font-family: 'PT Serif', serif !important;
+  font-family: "PT Serif", serif !important;
 }
 
 .wpo-couple-section-s4 .couple-area .text-grid {
@@ -227,7 +224,7 @@ body {
 }
 
 .couple-wedding span {
-  font-family: 'PT Serif', serif !important;
+  font-family: "PT Serif", serif !important;
   padding: 10px 40px;
   background-color: lightpink;
   display: inline-block;
@@ -239,7 +236,7 @@ body {
 }
 
 .copyright {
-  font-family: 'PT Serif', serif !important;
+  font-family: "PT Serif", serif !important;
 }
 
 .wpo-site-footer-s2 .wpo-lower-footer {
@@ -253,7 +250,6 @@ body {
 .col-12 {
   flex: 0 auto !important;
 }
-
 
 @media (max-width: 767px) {
   body {
@@ -5727,6 +5723,7 @@ a.ui-button:active,
 .static-hero-s3 .static-hero-right {
   right: 60px;
   top: 47%;
+  max-width: 50%;
 }
 
 @media (max-width: 1600px) {
@@ -5757,6 +5754,7 @@ a.ui-button:active,
 @media (max-width: 991px) {
   .static-hero-s3 .static-hero-right {
     margin-top: 60px;
+    max-width: 100%;
   }
 }
 
